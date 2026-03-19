@@ -19,22 +19,22 @@ Built a frontend-only admin dashboard for reviewing freelancer worklogs and proc
 ### 1. Worklogs List View
 Shows all worklogs with summary cards, date filter tabs, and selection checkboxes.
 
-![Worklogs List](C:/Users/Administrator/.gemini/antigravity/brain/1016aa35-dfc9-48cc-9968-f97df16dc13e/worklogs_list_1773900445910.png)
+![Worklogs List](screenshots/worklogs_list_1773900445910.png)
 
 ### 2. Date Range Filtering
 Feb 2026 filter applied — list narrows to 4 worklogs, totals update dynamically.
 
-![Date Filtering](C:/Users/Administrator/.gemini/antigravity/brain/1016aa35-dfc9-48cc-9968-f97df16dc13e/date_range_filtering_1773900459262.png)
+![Date Filtering](screenshots/date_range_filtering_1773900459262.png)
 
 ### 3. Worklog Details / Time Entries
 Drill-down into "Homepage Redesign" showing freelancer info and 3 time entries.
 
-![Worklog Details](C:/Users/Administrator/.gemini/antigravity/brain/1016aa35-dfc9-48cc-9968-f97df16dc13e/worklog_details_1773900471433.png)
+![Worklog Details](screenshots/worklog_details_1773900471433.png)
 
 ### 4. Payment Review Screen
 2 worklogs selected for review. Freelancer exclusion toggles and confirm payment button visible.
 
-![Payment Review](C:/Users/Administrator/.gemini/antigravity/brain/1016aa35-dfc9-48cc-9968-f97df16dc13e/payment_review_1773900508912.png)
+![Payment Review](screenshots/payment_review_1773900508912.png)
 
 ## Verification
 
